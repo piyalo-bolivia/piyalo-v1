@@ -150,4 +150,4 @@ export default async function BlogPage() {
       </footer>
     </div>
   );
-      }
+}
